@@ -1,0 +1,7 @@
+go 1.22.0
+
+use (
+	./go/increasing_triplets
+	./go/moving_zero
+	./go/zigzag
+)

@@ -1,4 +1,4 @@
-package main
+package increasingtriplet
 
 import (
 	"fmt"
